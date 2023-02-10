@@ -1,11 +1,11 @@
-package question1;
+package question2;
 
 /**
  *
  * @authors Beatriz Gonçalves Fontes and Vitória Carla Costa de lira
  */
 
-public class Main {
+public class NewMain {
 
     public static void main(String[] args) {
  
@@ -14,3 +14,4 @@ public class Main {
     }
     
 }
+

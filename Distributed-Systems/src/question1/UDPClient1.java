@@ -14,7 +14,7 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
-public class UDPClient {
+public class UDPClient1 {
     	
     public static void main(String args[]) throws Exception
     {

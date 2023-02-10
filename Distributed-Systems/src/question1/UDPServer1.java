@@ -10,7 +10,7 @@ import java.net.InetAddress;
 import java.net.DatagramPacket;
 
 
-public class UDPServer {
+public class UDPServer1 {
 	
 	public static void main(String args[]) throws Exception
     {
